@@ -1,11 +1,16 @@
 _repo: Lips-Tullian-und-seine-Raubgenossen-Eine-romantische-Schilderung-der-Thaten-dieses-furchtbare__58190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58190-h/images/cover.jpg
 creator:
   author:
     agent_name: Frei, Ernst
     gutenberg_agent_id: '49816'
     url: http://www.gutenberg.org/2009/agents/49816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58190#Lips-Tullian-und-seine-Raubgenossen-Eine-romantische-Schilderung-der-Thaten-dieses-furchtbare_
 gutenberg_issued: '2018-10-29'
 gutenberg_type: Text
 identifiers:
